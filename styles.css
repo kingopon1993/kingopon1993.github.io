@@ -1,0 +1,40 @@
+body {
+  background-color: #808880;
+  color: #000000;
+  font-family: arial;
+  margin-left: 64px;
+  margin-right: 64px;
+}
+h1 {
+  color: #000000;
+  font-family: arial;
+}
+h2 {
+    color: #000000;
+    font-family: arial;
+}
+h3 {
+  color: #000000;
+  font-family: arial;
+}
+h4 {
+  color: #000000;
+  font-family: arial;
+}
+p {
+  color: #000000;
+  font-family: arial;
+}
+a {
+  font-family: arial;
+}
+b {
+  font-family: arial;
+}
+i {
+  font-family: arial;
+}
+blockquote {
+  color: #000000;
+  font-family: arial;
+}
